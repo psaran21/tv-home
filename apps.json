@@ -1,0 +1,213 @@
+{
+  "apps": [
+    {
+      "appId": "1",
+      "name": "Netflix",
+      "icon": "https://img.vidaahub.com/vidaa/2023/11/202311090857551807.png",
+      "native": true
+    },
+    {
+      "appId": "3",
+      "name": "YouTube",
+      "icon": "https://img.vidaahub.com/vidaa/2023/11/202311090858299321.png",
+      "native": true
+    },
+    {
+      "appId": "2",
+      "name": "Prime Video",
+      "icon": "https://img.vidaahub.com/vidaa/2024/11/202411210932408667.png",
+      "native": true
+    },
+    {
+      "appId": "295",
+      "name": "Disney+",
+      "icon": "https://img.vidaahub.com/vidaa/2024/11/202411260732081526.png",
+      "url": "https://cd-dmgz.bamgrid.com/bbd/hisense_tv/index.html"
+    },
+    {
+      "appId": "284",
+      "name": "TV Channels",
+      "icon": "https://img.vidaahub.com/vidaa/2025/12/202512030945137285.jpg",
+      "native": true
+    },
+    {
+      "appId": "336",
+      "name": "Crave",
+      "icon": "https://img.vidaahub.com/vidaa/2026/3/202603121832533138.png",
+      "url": "https://crave.hisense.bellmedia.ca/"
+    },
+    {
+      "appId": "351",
+      "name": "Apple TV",
+      "icon": "https://img.vidaahub.com/vidaa/2025/11/202511050649298835.png",
+      "url": "https://atve.tv.apple.com/94819831-5404-4438-810e-afb648d6a826/tvw_1dc2aab0a313427dbc11818be8a18bd9/"
+    },
+    {
+      "appId": "2256",
+      "name": "Spotify",
+      "icon": "https://img.vidaahub.com/vidaa/2026/5/202605290216573337.jpg",
+      "url": "https://api-partner.spotify.com/tvapp?platform=vidaa"
+    },
+    {
+      "appId": "216",
+      "name": "tubi",
+      "icon": "https://img.vidaahub.com/vidaa/2024/2/202402280220063522.png",
+      "url": "https://ott-hisense.tubitv.com"
+    },
+    {
+      "appId": "2501",
+      "name": "TSN",
+      "icon": "https://img.vidaahub.com/vidaa/2025/12/202512020222177285.png",
+      "url": "https://tsn-hisense-prd.tsn.d3-bell.com/"
+    },
+    {
+      "appId": "334",
+      "name": "Paramount+",
+      "icon": "https://img.vidaahub.com/vidaa/2022/5/202205090739158843.png",
+      "url": "https://www.intl.paramountplus.com/smart-console-apps/vidaa/"
+    },
+    {
+      "appId": "173",
+      "name": "PlutoTV",
+      "icon": "https://img.vidaahub.com/vidaa/2024/4/202404160631521045.jpg",
+      "url": "https://app-hisense.pluto.tv/"
+    },
+    {
+      "appId": "2643",
+      "name": "Bell Fibe TV",
+      "icon": "https://img.vidaahub.com/vidaa/2026/3/202603180145295286.png",
+      "url": "https://tv-bell.kprod.cdn.f0ns3.ca/smart-tv/bell/vidaa/#/"
+    },
+    {
+      "appId": "2505",
+      "name": "RDS",
+      "icon": "https://img.vidaahub.com/vidaa/2026/5/202605120202091066.png",
+      "url": "https://rds-hisense-prd.rds.d3-bell.com/"
+    },
+    {
+      "appId": "227",
+      "name": "Haystack TV Local + World News",
+      "icon": "https://img.vidaahub.com/vidaa/2024/12/202412101945116636.jpg",
+      "url": "https://dn6q4f0q0kh23.cloudfront.net/receiver/hisense/haystackreceiver.html"
+    },
+    {
+      "appId": "233",
+      "name": "Kidoodle TV",
+      "icon": "https://img.vidaahub.com/vidaa/2026/3/202603170735246004.png",
+      "url": "https://ctv-prod.kidoodle.tv/vidaa/index.html"
+    },
+    {
+      "appId": "218",
+      "name": "Fubo TV",
+      "icon": "https://img.vidaahub.com/vidaa/2023/4/202304070134299507.png?resize=w_300,h_300",
+      "url": "https://hisense.fubo.tv/?ftv_campaign=hs_launchbar"
+    },
+    {
+      "appId": "162",
+      "name": "DAZN",
+      "icon": "https://img.vidaahub.com/vidaa/2024/5/202405300640297559.png",
+      "url": "https://tv.dazn.com/app/vidaa/"
+    },
+    {
+      "appId": "293",
+      "name": "NBA",
+      "icon": "https://img.vidaahub.com/vidaa/2026/6/202606260558403108.png",
+      "url": "https://cweb-ott.nba.com/"
+    },
+    {
+      "appId": "244",
+      "name": "UEFA.tv",
+      "icon": "https://img.vidaahub.com/vidaa/2023/11/202311090919094943.png",
+      "url": "https://dice-tv.imggaming.com/vidaa/dce.uefatv/index.html#/"
+    },
+    {
+      "appId": "2584",
+      "name": "XBOX",
+      "icon": "https://img.vidaahub.com/vidaa/2026/6/202606290146355685.jpg",
+      "url": "https://play.xbox.com/_external/init"
+    },
+    {
+      "appId": "355",
+      "name": "UFC",
+      "icon": "https://img.vidaahub.com/vidaa/2023/11/202311090930102217.png",
+      "url": "https://dice-tv.imggaming.com/vidaa/dce.ufc/index.html"
+    },
+    {
+      "appId": "376",
+      "name": "Amazon Music",
+      "icon": "https://img.vidaahub.com/vidaa/2023/11/202311060839281117.png",
+      "url": "https://html5tv.music.amazon.dev/?deviceModel=A27F3L5WMHDOWD"
+    },
+    {
+      "appId": "245",
+      "name": "Triller TV.",
+      "icon": "https://img.vidaahub.com/vidaa/2024/1/202401240916139001.png",
+      "url": "https://ott-apps.fite.tv/hisense/index.html"
+    },
+    {
+      "appId": "2372",
+      "name": "Crunchyroll",
+      "icon": "https://img.vidaahub.com/vidaa/2024/9/202409041444508945.png",
+      "url": "https://www.crunchyroll.com/tetsuo/hisense-vidaa/"
+    },
+    {
+      "appId": "15",
+      "name": "AccuWeather",
+      "icon": "https://img.vidaahub.com/vidaa/2023/11/202311091029582894.png",
+      "native": true
+    },
+    {
+      "appId": "16",
+      "name": "Browser",
+      "icon": "https://img.vidaahub.com/vidaa/2023/11/202311210704287492.png",
+      "native": true,
+      "browser": true
+    }
+  ],
+  "dock": [
+    "1",
+    "3",
+    "2",
+    "295"
+  ],
+  "helper_dock": [
+    "1",
+    "3",
+    "2",
+    "295"
+  ],
+  "sources": [
+    {
+      "id": "TV",
+      "name": "TV"
+    },
+    {
+      "id": "HDMI1",
+      "name": "HDMI 1"
+    },
+    {
+      "id": "HDMI2",
+      "name": "HDMI 2"
+    },
+    {
+      "id": "HDMI3",
+      "name": "HDMI 3"
+    }
+  ],
+  "browser": {
+    "search": "https://search.brave.com/search?q=%s",
+    "region": "us-en",
+    "links": [
+      {
+        "name": "Brave Search",
+        "url": "https://search.brave.com/"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://www.wikipedia.org/"
+      }
+    ]
+  },
+  "greeting_name": "",
+  "clock_24h": false
+}
